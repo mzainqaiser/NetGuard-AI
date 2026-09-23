@@ -32,6 +32,7 @@ ENV/
 data/raw/*
 data/processed/*
 *.csv
+!reports/*.csv
 *.pcap
 *.pcapng
 

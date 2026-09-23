@@ -1,0 +1,47 @@
+NetGuard AI — CIC-IDS2017 Label Quality Report
+======================================================================
+Expected CIC-IDS2017 files: 8
+Expected files found: 8
+Expected files missing: 0
+Unexpected CSV files: 0
+Files successfully analyzed: 8
+Files failed to analyze: 0
+
+STATUS: All 8 expected CIC-IDS2017 files were found and successfully analyzed.
+
+Missing expected files:
+  None
+
+Unexpected CSV files excluded from analysis:
+  None
+
+Files with missing Label column:
+  None
+
+Files with read errors:
+  None
+
+Files with empty/missing labels:
+  None
+
+Files with leading/trailing whitespace issues:
+  None
+
+Distinct raw labels found (15):
+  - 'BENIGN'
+  - 'Bot'
+  - 'DDoS'
+  - 'DoS GoldenEye'
+  - 'DoS Hulk'
+  - 'DoS Slowhttptest'
+  - 'DoS slowloris'
+  - 'FTP-Patator'
+  - 'Heartbleed'
+  - 'Infiltration'
+  - 'PortScan'
+  - 'SSH-Patator'
+  - 'Web Attack � Brute Force'
+  - 'Web Attack � Sql Injection'
+  - 'Web Attack � XSS'
+
+No naming inconsistencies detected after case/whitespace comparison.

@@ -1,0 +1,16 @@
+Raw_Label,Normalized_Label,Record_Count
+BENIGN,BENIGN,2273097
+Bot,Bot,1966
+DDoS,DDoS,128027
+DoS GoldenEye,DoS GoldenEye,10293
+DoS Hulk,DoS Hulk,231073
+DoS Slowhttptest,DoS Slowhttptest,5499
+DoS slowloris,DoS Slowloris,5796
+FTP-Patator,FTP-Patator,7938
+Heartbleed,Heartbleed,11
+Infiltration,Infiltration,36
+PortScan,PortScan,158930
+SSH-Patator,SSH-Patator,5897
+Web Attack � Brute Force,Web Attack - Brute Force,1507
+Web Attack � Sql Injection,Web Attack - SQL Injection,21
+Web Attack � XSS,Web Attack - XSS,652

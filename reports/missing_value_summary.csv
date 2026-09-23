@@ -1,0 +1,9 @@
+file,total_rows,missing_cells,affected_rows
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,225745,68,34
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,286467,742,371
+Friday-WorkingHours-Morning.pcap_ISCX.csv,191033,244,122
+Monday-WorkingHours.pcap_ISCX.csv,529918,874,437
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,288602,414,207
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,170366,270,135
+Tuesday-WorkingHours.pcap_ISCX.csv,445909,528,264
+Wednesday-workingHours.pcap_ISCX.csv,692703,2594,1297
