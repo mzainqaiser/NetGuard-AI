@@ -1,0 +1,18 @@
+{
+    "status": "PASS",
+    "records": 2830743,
+    "feature_groups": 2521725,
+    "conflict_groups": 697,
+    "conflict_rows": 6666,
+    "target_train_ratio": 0.7,
+    "target_validation_ratio": 0.15,
+    "target_test_ratio": 0.15,
+    "random_state": 42,
+    "grouping_key": "feature_group_id",
+    "grouping_features": 2521725,
+    "largest_group_size": 9329,
+    "split_ratios_are_targets": true,
+    "source_file_split": false,
+    "multi_label_groups_kept_intact": true,
+    "test_reserved_for_final_evaluation": true
+}

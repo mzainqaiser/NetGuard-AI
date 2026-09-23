@@ -1,0 +1,4 @@
+split,target_ratio,target_records
+train,0.7,1981520
+validation,0.15,424611
+test,0.15,424611

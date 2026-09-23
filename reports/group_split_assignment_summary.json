@@ -1,0 +1,40 @@
+{
+  "task": "13-D.2",
+  "status": "PASS",
+  "random_state": 42,
+  "strategy": "multi-label/conflict-first, cross-source-aware, rare-class-first, per-label deficit allocation",
+  "expected_groups": 2521725,
+  "assigned_groups": 2521725,
+  "expected_records": 2830743,
+  "assigned_records": 2830743,
+  "target_ratios": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "split_group_counts": {
+    "train": 1766583,
+    "validation": 376621,
+    "test": 378521
+  },
+  "split_record_counts": {
+    "train": 1981516,
+    "validation": 424613,
+    "test": 424614
+  },
+  "conflict_groups": 697,
+  "conflict_records": 6666,
+  "cross_source_groups": 34175,
+  "cross_source_records": 145748,
+  "assignment_fingerprint": "95d0d6c19986c2072775c28c1efa841fa53215e35d78441dd8ca8b70925eb5a9",
+  "actual_datasets_materialized": false,
+  "notes": [
+    "Feature groups remain intact.",
+    "Multi-label conflict groups are allocated first.",
+    "Cross-source groups are explicitly considered.",
+    "Rare classes are allocated before normal classes.",
+    "Assignment is deterministic with RANDOM_STATE=42.",
+    "Actual train/validation/test datasets are not materialized.",
+    "Strict validation must be rerun in Task 13-D.1."
+  ]
+}

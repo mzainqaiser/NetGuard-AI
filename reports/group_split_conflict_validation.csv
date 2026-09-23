@@ -1,0 +1,4 @@
+split,conflict_groups,conflict_records
+train,447,4665
+validation,125,1001
+test,125,1000

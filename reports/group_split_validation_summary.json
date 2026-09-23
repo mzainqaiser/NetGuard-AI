@@ -1,0 +1,46 @@
+{
+  "task": "13-D.1",
+  "status": "PASS",
+  "random_state": 42,
+  "expected_groups": 2521725,
+  "actual_groups": 2521725,
+  "expected_records": 2830743,
+  "actual_records": 2830743,
+  "metadata_record_total": 2830743,
+  "target_ratios": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "split_record_counts": {
+    "train": 1981516,
+    "validation": 424613,
+    "test": 424614
+  },
+  "split_group_counts": {
+    "train": 1766583,
+    "validation": 376621,
+    "test": 378521
+  },
+  "conflict_groups": 697,
+  "conflict_records": 6666,
+  "cross_source_groups": 34175,
+  "expected_labels": 15,
+  "rare_class_threshold": 1000,
+  "assignment_fingerprint": "95d0d6c19986c2072775c28c1efa841fa53215e35d78441dd8ca8b70925eb5a9",
+  "actual_datasets_materialized": false,
+  "validation_checks": {
+    "unique_group_assignment": true,
+    "no_duplicate_group_ids": true,
+    "all_groups_accounted": true,
+    "all_records_accounted": true,
+    "all_labels_present": true,
+    "no_unexpected_labels": true,
+    "conflict_groups_preserved": true,
+    "cross_source_groups_preserved": true,
+    "train_validation_overlap": 0,
+    "train_test_overlap": 0,
+    "validation_test_overlap": 0,
+    "deterministic_fingerprint_generated": true
+  }
+}
