@@ -1,0 +1,9 @@
+file,rows,duplicate_groups,duplicate_rows,duplicate_extra_rows,duplicate_percentage
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,225745,1307,3940,2633,1.7453321225276308
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,286467,35351,107704,72353,37.59734978199932
+Friday-WorkingHours-Morning.pcap_ISCX.csv,191033,3224,10112,6888,5.293326283940471
+Monday-WorkingHours.pcap_ISCX.csv,529918,9938,36873,26935,6.958246370193125
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,288602,9414,45044,35630,15.60765344661506
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,170366,2775,8841,6066,5.1894157284904265
+Tuesday-WorkingHours.pcap_ISCX.csv,445909,8333,32398,24065,7.265608005220796
+Wednesday-workingHours.pcap_ISCX.csv,692703,10735,92644,81909,13.374274400428465

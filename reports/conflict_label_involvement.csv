@@ -1,0 +1,6 @@
+label,conflict_groups,rows_in_conflicts,cross_file_conflict_groups,same_file_conflict_groups
+BENIGN,697,733,663,34
+PortScan,564,1053,564,0
+DoS Hulk,129,4873,95,34
+DDoS,3,6,3,0
+DoS Slowloris,1,1,1,0

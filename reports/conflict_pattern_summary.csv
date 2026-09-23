@@ -1,0 +1,10 @@
+metric,value
+verified_conflict_groups,697.0
+rows_in_conflict_groups,6666.0
+cross_file_conflict_groups,663.0
+same_file_conflict_groups,34.0
+cross_file_percentage,95.1219512195122
+same_file_percentage,4.878048780487805
+maximum_labels_per_feature_group,2.0
+unique_labels_involved,5.0
+unique_label_pairs,4.0

@@ -1,0 +1,11 @@
+metric,value
+total_records,2830743.0
+exact_duplicate_groups,81077.0
+exact_duplicate_rows,337556.0
+exact_duplicate_extra_rows,256479.0
+exact_duplicate_percentage,11.924643106067913
+feature_duplicate_groups,95476.0
+feature_duplicate_rows,404494.0
+conflicting_feature_groups,697.0
+conflicting_feature_rows,6666.0
+feature_conflict_percentage,0.730026394067619

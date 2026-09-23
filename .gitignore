@@ -29,6 +29,9 @@ ENV/
 # ==============================
 # Data
 # ==============================
+data/normalized/*
+data/consolidated/*
+*.parquet
 data/raw/*
 data/processed/*
 *.csv
