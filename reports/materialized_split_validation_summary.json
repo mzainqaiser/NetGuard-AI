@@ -1,0 +1,77 @@
+{
+  "status": "PASS",
+  "expected_total_records": 2830743,
+  "actual_total_records": 2830743,
+  "expected_feature_groups": 2521725,
+  "actual_unique_feature_groups": 2521725,
+  "expected_materialized_columns": 81,
+  "expected_feature_count": 78,
+  "splits": {
+    "train": {
+      "records": 1981516,
+      "unique_feature_groups": 1766583,
+      "labels": {
+        "DDoS": 89617,
+        "BENIGN": 1591117,
+        "PortScan": 111249,
+        "Bot": 1376,
+        "Infiltration": 24,
+        "Web Attack - Brute Force": 1055,
+        "FTP-Patator": 5556,
+        "Web Attack - XSS": 456,
+        "Web Attack - SQL Injection": 15,
+        "SSH-Patator": 4127,
+        "DoS Hulk": 161803,
+        "DoS Slowloris": 4060,
+        "DoS Slowhttptest": 3849,
+        "DoS GoldenEye": 7205,
+        "Heartbleed": 7
+      },
+      "source_file_count": 8
+    },
+    "validation": {
+      "records": 424613,
+      "unique_feature_groups": 376621,
+      "labels": {
+        "BENIGN": 340987,
+        "PortScan": 23841,
+        "DDoS": 19205,
+        "Bot": 295,
+        "Infiltration": 6,
+        "FTP-Patator": 1191,
+        "SSH-Patator": 885,
+        "Web Attack - Brute Force": 226,
+        "Web Attack - XSS": 98,
+        "Web Attack - SQL Injection": 3,
+        "DoS Hulk": 34639,
+        "DoS Slowloris": 866,
+        "DoS Slowhttptest": 825,
+        "DoS GoldenEye": 1544,
+        "Heartbleed": 2
+      },
+      "source_file_count": 8
+    },
+    "test": {
+      "records": 424614,
+      "unique_feature_groups": 378521,
+      "labels": {
+        "BENIGN": 340993,
+        "PortScan": 23840,
+        "DDoS": 19205,
+        "Bot": 295,
+        "Infiltration": 6,
+        "FTP-Patator": 1191,
+        "SSH-Patator": 885,
+        "Web Attack - Brute Force": 226,
+        "Web Attack - XSS": 98,
+        "Web Attack - SQL Injection": 3,
+        "DoS Hulk": 34631,
+        "DoS Slowloris": 870,
+        "DoS Slowhttptest": 825,
+        "DoS GoldenEye": 1544,
+        "Heartbleed": 2
+      },
+      "source_file_count": 8
+    }
+  }
+}

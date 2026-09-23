@@ -1,0 +1,9 @@
+Source_File,train,validation,test,total
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,158064,33738,33943,225745
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,200420,43048,42999,286467
+Friday-WorkingHours-Morning.pcap_ISCX.csv,133885,28526,28622,191033
+Monday-WorkingHours.pcap_ISCX.csv,371633,79130,79155,529918
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,202368,43421,42813,288602
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,118877,25525,25964,170366
+Tuesday-WorkingHours.pcap_ISCX.csv,311510,66852,67547,445909
+Wednesday-workingHours.pcap_ISCX.csv,484759,104373,103571,692703

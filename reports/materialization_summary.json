@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "random_state": 42,
+  "chunk_size": 100000,
+  "normalized_source_files": 8,
+  "normalized_source_records": 2830743,
+  "expected_feature_groups": 2521725,
+  "expected_records": 2830743,
+  "materialized_records": 2830743,
+  "source_column_count": 80,
+  "output_column_count": 81,
+  "traffic_feature_count": 78,
+  "preserved_columns": [
+    "78 traffic features",
+    "Label",
+    "Raw_Label",
+    "Source_File"
+  ],
+  "excluded_from_ml_features": [
+    "feature_group_id",
+    "Source_File"
+  ],
+  "split_outputs": {
+    "train": {
+      "path": "data\\splits\\train\\train.parquet",
+      "records": 1981516,
+      "file_size_bytes": 241238908,
+      "file_size_mb": 230.06
+    },
+    "validation": {
+      "path": "data\\splits\\validation\\validation.parquet",
+      "records": 424613,
+      "file_size_bytes": 55317981,
+      "file_size_mb": 52.76
+    },
+    "test": {
+      "path": "data\\splits\\test\\test.parquet",
+      "records": 424614,
+      "file_size_bytes": 55454106,
+      "file_size_mb": 52.89
+    }
+  },
+  "source_distribution_report": "reports\\materialization_source_distribution.csv"
+}
